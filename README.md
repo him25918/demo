@@ -1,2 +1,2 @@
 # demo
-This repo is for demo purposes
+This repo is for demo purposes.
